@@ -1,0 +1,44 @@
+[
+    {
+        "name": "voceconnect/voce-error-logging",
+        "version": "0.4",
+        "version_normalized": "0.4.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/voceconnect/voce-error-logging.git",
+            "reference": "bf91b484f8db48b93672fb5884b4a578903c92fc"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/voceconnect/voce-error-logging/zipball/bf91b484f8db48b93672fb5884b4a578903c92fc",
+            "reference": "bf91b484f8db48b93672fb5884b4a578903c92fc",
+            "shasum": ""
+        },
+        "time": "2016-02-23 14:42:22",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "voce-error-logging.php"
+            ],
+            "files": [
+                "bootstrap.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPLv2+"
+        ],
+        "authors": [
+            {
+                "name": "Jeff Stieler",
+                "email": "jeff@voceconnect.com"
+            },
+            {
+                "name": "Michael Pretty",
+                "email": "mpretty@voceconnect.com"
+            }
+        ],
+        "description": "Allows error logging as a post type."
+    }
+]
